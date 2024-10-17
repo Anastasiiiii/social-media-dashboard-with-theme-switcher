@@ -4,7 +4,7 @@
     --card-bg: hsl(227, 47%, 96%);
     --text: hsl(228, 12%, 44%);
     --very-text: hsl(230, 17%, 14%);
-    --button-bg: linear-gradient(hsl(210, 86%, 74%), hsl(146, 81%, 75%));
+    --button-bg: linear-gradient(hsl(210, 78%, 56%), hsl(146, 68%, 55%));
 
 }
 
@@ -14,5 +14,5 @@
     --card-bg: hsl(228, 28%, 20%);
     --text: hsl(228, 34%, 66%);
     --very-text: hsl(0, 0%, 100%);
-    --button-bg: linear-gradient(hsl(210, 78%, 56%), hsl(146, 68%, 55%));
+    --button-bg: linear-gradient(hsl(146, 68%, 55%), hsl(210, 78%, 56%));
 }
