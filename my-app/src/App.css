@@ -1,0 +1,67 @@
+/* Body background */
+body {
+  background-color: var(--background-color);
+}
+
+/* Hiding the default checkbox */
+input[type="checkbox"] {
+  width: 70px;
+  height: 30px;
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Outer switch container */
+label {
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 16px;
+  color: var(--text); 
+  position: relative;
+}
+
+/* Outer circle (switch container) */
+label::before {
+  content: '';
+  display: inline-block;
+  width: 70px; 
+  height: 30px;
+  background: var(--button-bg); 
+  border: none; 
+  border-radius: 30px;
+  margin-right: 10px;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  position: relative;
+}
+
+/* Inner Circle (toggle button) */
+label::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px; 
+  width: 26px; 
+  height: 26px;
+  background-color: var(--top-bg); 
+  border-radius: 50%;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+/* When activated (checked), move the inner circle to the right */
+input[type="checkbox"]:checked + label::after {
+  transform: translateX(40px); /* Shift right */
+  background-color: var(--top-bg); 
+}
+
+/* Changing the external background upon activation */
+input[type="checkbox"]:checked + label::before {
+  background-color: var(--text); 
+  border-color: var(--text); 
+}
+
+/* Hover effect on outer container */
+label:hover::before {
+  border-color: var(--very-text);
+}
