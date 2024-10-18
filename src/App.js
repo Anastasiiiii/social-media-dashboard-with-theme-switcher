@@ -18,7 +18,7 @@ function App() {
       <div className='overview-part'>
         <h3>Overview - Today</h3>
       </div>
-      <div>
+      <div className='app-overview-cards-container'>
         <OverviewCardsContainer />
       </div>
     </div>

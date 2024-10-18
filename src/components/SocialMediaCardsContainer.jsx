@@ -68,7 +68,6 @@ const SocialMediaCardsContainer = () => {
                 arrowIcon={data.arrowIcon}
                 />
             ))}
-            
         </div>
     )
 }
