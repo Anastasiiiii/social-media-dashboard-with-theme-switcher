@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Social-media-dashboard-with-theme-switcher/static/css/main.f998f7ed.css",
-    "main.js": "/Social-media-dashboard-with-theme-switcher/static/js/main.c1746ffd.js",
+    "main.css": "/Social-media-dashboard-with-theme-switcher/static/css/main.90fd5337.css",
+    "main.js": "/Social-media-dashboard-with-theme-switcher/static/js/main.0da3f651.js",
     "static/js/453.ed3810f9.chunk.js": "/Social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Social-media-dashboard-with-theme-switcher/index.html",
-    "main.f998f7ed.css.map": "/Social-media-dashboard-with-theme-switcher/static/css/main.f998f7ed.css.map",
-    "main.c1746ffd.js.map": "/Social-media-dashboard-with-theme-switcher/static/js/main.c1746ffd.js.map",
+    "main.90fd5337.css.map": "/Social-media-dashboard-with-theme-switcher/static/css/main.90fd5337.css.map",
+    "main.0da3f651.js.map": "/Social-media-dashboard-with-theme-switcher/static/js/main.0da3f651.js.map",
     "453.ed3810f9.chunk.js.map": "/Social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f998f7ed.css",
-    "static/js/main.c1746ffd.js"
+    "static/css/main.90fd5337.css",
+    "static/js/main.0da3f651.js"
   ]
 }
