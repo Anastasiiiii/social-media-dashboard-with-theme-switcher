@@ -1,0 +1,32 @@
+.all-overview-cards-container {
+    display:grid;
+    place-items: center;
+    margin-right: 34px;
+}
+
+.first-block {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+    margin-bottom: 20px;
+}
+
+.seсond-block {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+}
+
+@media(max-width: 450px) {
+    .first-block {
+        display: grid;
+        place-items: center;
+    }
+    .seсond-block {
+        display: grid;
+        place-items: center;
+    }
+    .all-overview-cards-container {
+        margin-left: 10px;
+    }
+}
