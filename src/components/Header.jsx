@@ -1,5 +1,5 @@
 import React from "react";
-import { useEffect, useState } from "react";
+import { useEffect} from "react";
 import useLocalStorage from "../useLocalStorage"
 import "../styles/Formulas.css";
 import "../styles/Header.css";
