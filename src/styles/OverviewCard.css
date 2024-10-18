@@ -6,6 +6,15 @@
     border-radius: 10px;
     padding-bottom: 20px;
 }
+
+.overview-card-container:hover {
+    filter: brightness(0.9);
+}
+
+[data-theme="dark"] .overview-card-container:hover {
+    filter: brightness(1.2);
+}
+
 .card-name-container {
     display: flex;
     align-items: center;

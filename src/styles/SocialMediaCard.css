@@ -6,6 +6,14 @@
     border-radius: 5px;
 }
 
+.social-media-card-container:hover {
+    filter: brightness(0.9);
+}
+
+[data-theme="dark"] .social-media-card-container:hover {
+    filter: brightness(1.2);
+}
+
 .gradient-border {
     position: relative;
     padding-top: 10px; /* Increased to accommodate the top border */

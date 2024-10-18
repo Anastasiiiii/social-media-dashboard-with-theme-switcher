@@ -5,7 +5,6 @@
     --text: hsl(228, 12%, 44%);
     --very-text: hsl(230, 17%, 14%);
     --button-bg: linear-gradient(hsl(210, 78%, 56%), hsl(146, 68%, 55%));
-
 }
 
 [data-theme = "dark"] {
