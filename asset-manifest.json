@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Social-media-dashboard-with-theme-switcher/static/css/main.f998f7ed.css",
+    "main.js": "/Social-media-dashboard-with-theme-switcher/static/js/main.e1f82d1d.js",
+    "static/js/453.ed3810f9.chunk.js": "/Social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Social-media-dashboard-with-theme-switcher/index.html",
+    "main.f998f7ed.css.map": "/Social-media-dashboard-with-theme-switcher/static/css/main.f998f7ed.css.map",
+    "main.e1f82d1d.js.map": "/Social-media-dashboard-with-theme-switcher/static/js/main.e1f82d1d.js.map",
+    "453.ed3810f9.chunk.js.map": "/Social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f998f7ed.css",
+    "static/js/main.e1f82d1d.js"
+  ]
+}
