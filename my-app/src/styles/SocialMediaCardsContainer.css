@@ -1,0 +1,14 @@
+.all-cards-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+@media (max-width: 450px) {
+    .all-cards-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-top: 60px;
+        margin-left: -20px;
+    }
+}

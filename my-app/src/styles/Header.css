@@ -129,6 +129,7 @@ label:hover::before {
         align-items: center;
         gap: 10px;
         margin-left: 20px;
+        margin-bottom: 20px;
     }
 
     .change-mode-button-container p {

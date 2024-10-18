@@ -1,13 +1,19 @@
 import './App.css';
 import "./styles/Formulas.css";
 import Header from './components/Header';
+import SocialMediaCardsContainer from './components/SocialMediaCardsContainer';
 
 function App() {
-  
+
 
   return (
     <div className="App">
-      <Header />
+      <div className='app-header'>
+        <Header />
+      </div>
+      <div className='app-cards-container'>
+        <SocialMediaCardsContainer />
+      </div>
     </div>
   );
 }

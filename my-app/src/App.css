@@ -2,3 +2,8 @@
 body {
   background-color: var(--background-color);
 }
+.app-cards-container{
+  display: grid;
+  place-items: center;
+  margin-top: -80px;
+}
