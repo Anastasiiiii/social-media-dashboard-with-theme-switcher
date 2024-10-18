@@ -67,7 +67,7 @@ const SocialMediaCardsContainer = () => {
                 todayTextColor={data.todayTextColor}
                 arrowIcon={data.arrowIcon}
                 />
-            ))};
+            ))}
             
         </div>
     )
