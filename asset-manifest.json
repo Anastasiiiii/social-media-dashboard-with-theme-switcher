@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Social-media-dashboard-with-theme-switcher/static/css/main.d6519d65.css",
-    "main.js": "/Social-media-dashboard-with-theme-switcher/static/js/main.0da3f651.js",
-    "static/js/453.ed3810f9.chunk.js": "/Social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/Social-media-dashboard-with-theme-switcher/index.html",
-    "main.d6519d65.css.map": "/Social-media-dashboard-with-theme-switcher/static/css/main.d6519d65.css.map",
-    "main.0da3f651.js.map": "/Social-media-dashboard-with-theme-switcher/static/js/main.0da3f651.js.map",
-    "453.ed3810f9.chunk.js.map": "/Social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/social-media-dashboard-with-theme-switcher/static/css/main.d6519d65.css",
+    "main.js": "/social-media-dashboard-with-theme-switcher/static/js/main.8e3ec7a6.js",
+    "static/js/453.ed3810f9.chunk.js": "/social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/social-media-dashboard-with-theme-switcher/index.html",
+    "main.d6519d65.css.map": "/social-media-dashboard-with-theme-switcher/static/css/main.d6519d65.css.map",
+    "main.8e3ec7a6.js.map": "/social-media-dashboard-with-theme-switcher/static/js/main.8e3ec7a6.js.map",
+    "453.ed3810f9.chunk.js.map": "/social-media-dashboard-with-theme-switcher/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6519d65.css",
-    "static/js/main.0da3f651.js"
+    "static/js/main.8e3ec7a6.js"
   ]
 }
